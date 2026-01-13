@@ -106,3 +106,5 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+Ella Campbell, fcp4au, I can already tell coding will be a struggle to learn for me, but im up for the challenge!
